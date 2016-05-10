@@ -1,0 +1,18 @@
+{
+  "name": "intro_exercices",
+  "version": "1.0.0",
+  "description": "First session exercices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rx"
+  ],
+  "author": "Yannick Heinrich",
+  "license": "MIT",
+  "dependencies": {
+    "rx": "^4.1.0"
+  },
+  "private": true
+}
